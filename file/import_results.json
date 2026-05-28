@@ -1,3 +1,33 @@
 {
-  "isi": []
+  "isi": [
+    {
+      "id": "6765622894",
+      "fileNames": "Humans Lyrics (feat. Passcode)",
+      "artists": "(K)NoW_NAME",
+      "driveFileNames": "(K)NoW_NAME - Humans Lyrics (feat. Passcode) [Insert Song EP 8,9 Dorohedoro Season 2].mp3",
+      "albums": "Dorohedoro Season 2 Insert Song EP 8,9",
+      "genres": "Anime",
+      "years": "2026",
+      "duration": "02:47",
+      "driveLink": "https://drive.google.com/file/d/10RNTKa8MO2TcfmS3jUE6OSK8wu43mB5q/view?usp=drivesdk",
+      "lyrics": "Lyrics Not Available (˚ ˃̣̣̥⌓˂̣̣̥ ), request on the meownime.net forum for mp3 files with lyrics or add them yourself (❀❛ ֊ ❛„)♡",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/caraaink/meownime@a8d94906e9b13f1e86355284bb34331a79f92e36/cover/anime/KNoW_NAME_Humans_Lyrics_feat_Passcode.jpg",
+      "bitrate_original": "320",
+      "url_original": "https://drive.google.com/file/d/10RNTKa8MO2TcfmS3jUE6OSK8wu43mB5q/view?usp=drivesdk",
+      "size_original": "6.8 MB",
+      "bitrate_320": "320",
+      "url_320": "https://drive.google.com/file/d/10RNTKa8MO2TcfmS3jUE6OSK8wu43mB5q/view?usp=drivesdk",
+      "size_320": "6.8 MB",
+      "driveFileNames_320": "(K)NoW_NAME - Humans Lyrics (feat. Passcode) [Insert Song EP 8,9 Dorohedoro Season 2]-[320k].mp3",
+      "bitrate_192": "192",
+      "url_192": "https://drive.google.com/file/d/1ZKJj1_BmgziLIS1MyEEpzzkhSqyiS_rK/view?usp=drivesdk",
+      "size_192": "4.1 MB",
+      "driveFileNames_192": "(K)NoW_NAME - Humans Lyrics (feat. Passcode) [Insert Song EP 8,9 Dorohedoro Season 2]-[192k].mp3",
+      "bitrate_128": "128",
+      "url_128": "https://drive.google.com/file/d/1kNio7ImEGTZUwgXNh6kgGPR7KlMmj73t/view?usp=drivesdk",
+      "size_128": "2.8 MB",
+      "driveFileNames_128": "(K)NoW_NAME - Humans Lyrics (feat. Passcode) [Insert Song EP 8,9 Dorohedoro Season 2]-[128k].mp3",
+      "lyrics_timestamp": "Lyrics Not Available (˚ ˃̣̣̥⌓˂̣̣̥ ), request on the meownime.net forum for mp3 files with lyrics or add them yourself (❀❛ ֊ ❛„)♡"
+    }
+  ]
 }
