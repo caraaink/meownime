@@ -1,3 +1,33 @@
 {
-  "isi": []
+  "isi": [
+    {
+      "id": "1",
+      "fileNames": "Gimme Gimme Hug!",
+      "artists": "Mahiru Shiina (CV: Manaka Iwami), Chitose Shirakawa (CV: Haruka Shiraishi), Ayaka Kido (CV: Marika Kouno)",
+      "driveFileNames": "Mahiru Shiina (CV: Manaka Iwami), Chitose Shirakawa (CV: Haruka Shiraishi), Ayaka Kido (CV: Marika Kouno) - Gimme Gimme Hug! [Character Song Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken].mp3",
+      "albums": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken Character Song ",
+      "genres": "Anime",
+      "years": "2026",
+      "duration": "04:10",
+      "driveLink": "https://drive.google.com/file/d/1WrQMlFoZX8Pdy3qjXFVwq2zksmtZTVsY/view?usp=drivesdk",
+      "lyrics": "Lyrics Not Available (˚ ˃̣̣̥⌓˂̣̣̥ ), request on the matikiri.site forum for mp3 files with lyrics or add them yourself (❀❛ ֊ ❛„)♡",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/caraaink/meownime@92408fd5db08934893ec38edd41a8970dc4a65c2/cover/anime/Mahiru_Shiina_CV_Manaka_Iwami_Chitose_Shirakawa_CV_Haruka_Shiraishi_Ayaka_Kido_CV_Marika_Kouno_Gimme_Gimme_Hug.jpg",
+      "bitrate_original": "320",
+      "url_original": "https://drive.google.com/file/d/1WrQMlFoZX8Pdy3qjXFVwq2zksmtZTVsY/view?usp=drivesdk",
+      "size_original": "9.8 MB",
+      "bitrate_320": "320",
+      "url_320": "https://drive.google.com/file/d/1WrQMlFoZX8Pdy3qjXFVwq2zksmtZTVsY/view?usp=drivesdk",
+      "size_320": "9.8 MB",
+      "driveFileNames_320": "Mahiru Shiina (CV: Manaka Iwami), Chitose Shirakawa (CV: Haruka Shiraishi), Ayaka Kido (CV: Marika Kouno) - Gimme Gimme Hug! [Character Song Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken]-[320k].mp3",
+      "bitrate_192": "192",
+      "url_192": "https://drive.google.com/file/d/1zTiz3yG7S0BgzVpxRQaOlm2mrnWTp2Hx/view?usp=drivesdk",
+      "size_192": "6.0 MB",
+      "driveFileNames_192": "Mahiru Shiina (CV: Manaka Iwami), Chitose Shirakawa (CV: Haruka Shiraishi), Ayaka Kido (CV: Marika Kouno) - Gimme Gimme Hug! [Character Song Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken]-[192k].mp3",
+      "bitrate_128": "128",
+      "url_128": "https://drive.google.com/file/d/19tuNyy1mlRP1xxWn6S_D-a-U3OiOW8-c/view?usp=drivesdk",
+      "size_128": "4.1 MB",
+      "driveFileNames_128": "Mahiru Shiina (CV: Manaka Iwami), Chitose Shirakawa (CV: Haruka Shiraishi), Ayaka Kido (CV: Marika Kouno) - Gimme Gimme Hug! [Character Song Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken]-[128k].mp3",
+      "lyrics_timestamp": "Lyrics Not Available (˚ ˃̣̣̥⌓˂̣̣̥ ), request on the matikiri.site forum for mp3 files with lyrics or add them yourself (❀❛ ֊ ❛„)♡"
+    }
+  ]
 }
