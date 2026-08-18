@@ -1,3 +1,25 @@
 {
-  "isi": []
+  "isi": [
+    {
+      "id": "3",
+      "fileNames": "Natsuko",
+      "artists": "FUNKY MONKEY BΛBY S",
+      "driveFileNames": "FUNKY MONKEY BΛBY'S - Natsuko [Opening Grand Blue 3rd Season].mp3",
+      "albums": "Grand Blue 3rd Season OP",
+      "genres": "Anime",
+      "years": "2026",
+      "duration": "3:33",
+      "driveLink": "https://drive.google.com/file/d/1GK9Gy0WVjJovSv3yVQGeTyBuj8uXguag/view?usp=drivesdk",
+      "lyrics": "Lyrics Not Available (˚ ˃̣̣̥⌓˂̣̣̥ ), request on the wallkpop forum for mp3 files with lyrics or add them yourself (❀❛ ֊ ❛„)♡",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/caraaink/meownime@98fe1d0a37b864ab2a2abcb4566a357bc1950802/cover/anime/FUNKY_MONKEY_B%CE%9BBY_S_Natsuko.jpg",
+      "bitrate_original": "320",
+      "url_original": "https://drive.google.com/file/d/1GK9Gy0WVjJovSv3yVQGeTyBuj8uXguag/view?usp=drivesdk",
+      "size_original": "8.4 MB",
+      "bitrate_320": "320",
+      "url_320": "https://drive.google.com/file/d/1GK9Gy0WVjJovSv3yVQGeTyBuj8uXguag/view?usp=drivesdk",
+      "size_320": "8.4 MB",
+      "driveFileNames_320": "FUNKY MONKEY BΛBY'S - Natsuko [Opening Grand Blue 3rd Season].mp3",
+      "lyrics_timestamp": "Lyrics Not Available (˚ ˃̣̣̥⌓˂̣̣̥ ), request on the wallkpop forum for mp3 files with lyrics or add them yourself (❀❛ ֊ ❛„)♡"
+    }
+  ]
 }
